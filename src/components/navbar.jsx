@@ -38,7 +38,6 @@ function Navbar() {
         <Link to="/about" className={`text-xl ${navColor} hover:border-b`}>About Us</Link>
           <Link to="/ourteam" className={`text-xl ${navColor} hover:border-b`}>Our Team</Link>
         <Link to="/blog" className={`text-xl ${navColor} hover:border-b`}>Blog</Link>
-        <Link to="/demo" className={`text-xl ${navColor} hover:border-b`}>Demo</Link>
         <a href="https://www.facebook.com/" className={`mt-1 ml-5 inline-flex items-center ${navColor} hover:text-[#1877F2] transition-colors duration-200`}><TiSocialFacebook className="text-2xl" /></a>
         <a href="https://www.instagram.com/" className={`mt-1 inline-flex items-center ${navColor} hover:text-[#EE2A7B] transition-colors duration-200`}><FaInstagram className="text-2xl" /></a>
       </div>

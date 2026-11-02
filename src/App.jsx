@@ -9,7 +9,6 @@ import About from './pages/about'
 import OurTeam from './pages/ourteam'
 import Donate from './pages/donate'
 import Blog from './pages/blog'
-import Demo from './components/demo'
 
 function App() {
 
@@ -25,7 +24,6 @@ function App() {
           <Route path="/ourteam" element={ <OurTeam />} />
           <Route path="/blog" element={ <Blog />} />
           <Route path="/donate" element={ <Donate />} />
-          <Route path="/demo" element={ <Demo />} />
         </Routes>
       </BrowserRouter>
       <Footer />

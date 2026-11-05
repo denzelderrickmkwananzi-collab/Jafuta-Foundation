@@ -3,7 +3,7 @@ import NewsCard from "./newscard";
 const newsletters = [
   {
     id: 1,
-    image: "./public/images/Children-africa-school-JafutaFoundation.png",
+    image: "./images/Children-africa-school-JafutaFoundation.png",
     date: "Apr 2026",
     title: "New Beginnings & Big Dreams",
     description:"It's hard to believe we are already in April - the year is flying by! And what a start it has been. We hit the ground running in January (and we haven't stopped yet!) as the new school year began. There is something incredibly special about this time of year. Watching our scholarship students - both new and returning - receive their uniforms and school supplies is always a deeply moving moment.",
@@ -11,7 +11,7 @@ const newsletters = [
   },
   {
     id: 2,
-    image: "./public/images/Screenshot 2026-10-22 102111.png",
+    image: "./images/Screenshot 2026-10-22 102111.png",
     date: "Mar 2026",
     title: "2025 Annual Report",
     description:
@@ -20,7 +20,7 @@ const newsletters = [
   },
   {
     id: 3,
-    image: "./public/images/boy_boxer_africa.png",
+    image: "./images/boy_boxer_africa.png",
     date: "Dec 2025",
     title: "Jafuta Foundation 2025 Year End Reflection",
     description:"As we close out 2025, we do so with full hearts and deep gratitude. This has been a year of remarkable progress on the ground - made possible by the belief, generosity, and encouragement of our supporters, partners, and friends.",
@@ -28,7 +28,7 @@ const newsletters = [
   },
   {
     id: 4,
-    image: "./public/images/Batoka-creatives-beads.png",
+    image: "./images/Batoka-creatives-beads.png",
     date: "Sep 2025",
     title: "Celebrating our Batoka Creatives!",
     description:

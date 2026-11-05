@@ -12,7 +12,7 @@ export default function Subscribe() {
   return (
     <section 
       className="relative flex items-center justify-center w-full h-110 px-4 py-16 bg-cover bg-center bg-no-repeat"
-      style={{backgroundImage: `url('./public/images/Batoka-creatives-beads.png')` }}
+      style={{backgroundImage: `url('./images/Batoka-creatives-beads.png')` }}
     >
       <div className="absolute inset-0 bg-white/10 backdrop-blur-[1px]"></div>
       <div className="relative z-10 h-85 max-w-[650px] bg-[#EFE8E1] px-6 py-12 md:px-14 md:py-5 text-center shadow-sm">

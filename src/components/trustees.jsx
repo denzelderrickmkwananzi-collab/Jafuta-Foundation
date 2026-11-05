@@ -3,11 +3,11 @@ import 'react';
 const trusteesData = [
   {
     name: "Benoit Fayd'herbe",
-    imageUrl: './public/images/BenoitFayden.png',
+    imageUrl: './images/BenoitFayden.png',
   },
   {
     name: 'Malcolm Ainscough',
-    imageUrl: './public/images/Malcolm+Ainscough.png',
+    imageUrl: './images/Malcolm+Ainscough.png',
   },
   {
     name: 'Kathy Cole (USA)',
@@ -15,23 +15,23 @@ const trusteesData = [
   },
   {
     name: 'Joshua Magaba',
-    imageUrl: './public/images/Joshua+Magaba.png',
+    imageUrl: './images/Joshua+Magaba.png',
   },
   {
     name: 'Gail van Jaarsveldt',
-    imageUrl: './public/images/Gail+Image+1.png',
+    imageUrl: './images/Gail+Image+1.png',
   },
   {
     name: 'Nyasha Mupita',
-    imageUrl: './public/images/Nyasha+Mupita.png',
+    imageUrl: './images/Nyasha+Mupita.png',
   },
   {
     name: 'Courtney Connelly',
-    imageUrl: './public/images/Courtney+Connelly.png',
+    imageUrl: './images/Courtney+Connelly.png',
   },
   {
     name: 'Sara Gardiner',
-    imageUrl: './public/images/Sara+Gardiner.png',
+    imageUrl: './images/Sara+Gardiner.png',
   },
 ];
 

@@ -4,7 +4,7 @@ const Cont = () => {
   return (
     <div className='width-full h-125 flex items-center justify-center'>
        <section className="relative w-[95%] h-[85%]">
-        <img src="./public/images/Batoka-creatives-beads (1).png" alt="Contact" className="absolute inset-0 w-full h-full object-cover" />
+        <img src="./images/Batoka-creatives-beads (1).png" alt="Contact" className="absolute inset-0 w-full h-full object-cover" />
         <div className="absolute inset-0 bg-black/50" />
         <div className="relative z-10 max-w-360 mx-auto grid lg:grid-cols-12 px-8 lg:px-24 py-20 lg:py-28 gap-12 items-start">
             <div className="lg:col-span-5 text-white">

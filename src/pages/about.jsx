@@ -33,7 +33,7 @@ export default function About() {
         <CommunityInfoRow
           title="The People"
           isImageRight={true}
-          imageSrc="./public/images/Girls_sports_africa.png"
+          imageSrc="./images/Girls_sports_africa.png"
           imageAlt="Children playing sports outdoors"
         >
           <p>
@@ -47,7 +47,7 @@ export default function About() {
         <CommunityInfoRow
           title="The Reality"
           isImageRight={false}
-          imageSrc="./public/images/kids-play-nonprofit.png"
+          imageSrc="./images/kids-play-nonprofit.png"
           imageAlt="Children playing on a playground seesaw"
         >
           <ul className="list-disc pl-5 space-y-4 marker:text-neutral-700">

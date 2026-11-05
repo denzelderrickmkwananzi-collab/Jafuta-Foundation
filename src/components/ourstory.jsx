@@ -2,9 +2,9 @@ import 'react';
 
 // 1. Array containing image paths and alt data for dynamic mapping
 const storyImages = [
-  { id: 1, alt: 'Young man smiling with red headphones around his neck', url: './public/images/man-worker-africa.png' },
-  { id: 2, alt: 'Two people focused working on laptops', url: './public/images/girl-school-africa.png' },
-  { id: 3, alt: 'Woman wearing a sun hat smiling while working with thread', url: './public/images/woman-sewing-africa.png' },
+  { id: 1, alt: 'Young man smiling with red headphones around his neck', url: './images/man-worker-africa.png' },
+  { id: 2, alt: 'Two people focused working on laptops', url: './images/girl-school-africa.png' },
+  { id: 3, alt: 'Woman wearing a sun hat smiling while working with thread', url: './images/woman-sewing-africa.png' },
 ];
 
 export default function OurStory() {

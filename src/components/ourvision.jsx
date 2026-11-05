@@ -34,7 +34,7 @@ import 'react'
           </div>
         <div className="w-full h-150 lg:h-175 overflow-hidden">
           <img
-            src="./public/images/women-nonprofit-skills.png"
+            src="./images/women-nonprofit-skills.png"
             alt="Jafuta Foundation community members"
             className="w-full h-full object-cover object-center"
           />

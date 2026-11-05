@@ -5,7 +5,7 @@ export default function ADifference() {
     <section className="w-full bg-white flex flex-col items-center">
       <div className="w-full aspect-[21/9] md:aspect-[2.4/1] bg-white overflow-hidden pt-40 pb-5 px-15 select-none pointer-events-none">
         <img
-          src="./public/images/kids-play-nonprofit.png"
+          src="./images/kids-play-nonprofit.png"
           alt="Children smiling and playing on swings"
           className="w-full h-full object-cover"
         />

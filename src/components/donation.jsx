@@ -4,14 +4,14 @@ const leftPlatforms = [
   {
     id: 'paypal',
     name: 'PayPal',
-    logoUrl: './public/images/PayPal_Logo.png',
+    logoUrl: './images/PayPal_Logo.png',
     buttonText: 'Donate via PayPal',
     link: 'https://www.paypal.com/ncp/payment/BHBMPJP3597V6',
   },
   {
     id: 'givebutter',
     name: 'Givebutter',
-    logoUrl: './public/images/givebutter-logo.png',
+    logoUrl: './images/givebutter-logo.png',
     buttonText: 'Donate via Givebutter',
     link: 'https://givebutter.com/jafuta-foundation-inc',
   }
@@ -42,7 +42,7 @@ export default function Donation() {
             <div className="w-full md:w-1/2 flex flex-col items-center text-center max-w-[340px] mx-auto md:mx-0">
                 <div className="h-12 flex items-center justify-center mb-4">
                     <img
-                        src="./public/images/Trustbridge-Logo.png" 
+                        src="./images/Trustbridge-Logo.png"
                         alt="" 
                         className="h-full w-full object-contain select-none"
                     />

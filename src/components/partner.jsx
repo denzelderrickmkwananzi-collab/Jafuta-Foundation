@@ -1,14 +1,14 @@
 import 'react';
 
 const partnersData = [
-  { name: 'MATTER', logoUrl: './public/images/Matter+Logo.png' },
-  { name: 'Uncommon', logoUrl: './public/images/Uncommon.png' },
-  { name: 'Lesedi Community Projects', logoUrl: './public/images/Lesedi+Community+Projects.png' },
-  { name: 'JL Foundation for Children and Community', logoUrl: './public/images/Children+Community (1).png' },
-  { name: 'Rotary International', logoUrl: './public/images/Rotary+International+Logo.png' },
-  { name: 'Miracle Missions Vimba', logoUrl: './public/images/Miracle+Missions+Vimba.png' },
-  { name: 'Hwange Rural District Council', logoUrl: './public/images/Hwange+Rural+District+Council.png' },
-  { name: 'Africa\'s Eden', logoUrl: './public/images/AfricsEden.png' },
+  { name: 'MATTER', logoUrl: './images/Matter+Logo.png' },
+  { name: 'Uncommon', logoUrl: './images/Uncommon.png' },
+  { name: 'Lesedi Community Projects', logoUrl: './images/Lesedi+Community+Projects.png' },
+  { name: 'JL Foundation for Children and Community', logoUrl: './images/Children+Community (1).png' },
+  { name: 'Rotary International', logoUrl: './images/Rotary+International+Logo.png' },
+  { name: 'Miracle Missions Vimba', logoUrl: './images/Miracle+Missions+Vimba.png' },
+  { name: 'Hwange Rural District Council', logoUrl: './images/Hwange+Rural+District+Council.png' },
+  { name: 'Africa\'s Eden', logoUrl: './images/AfricsEden.png' },
 ];
 
 export default function OurPartners() {

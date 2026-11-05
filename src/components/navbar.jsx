@@ -8,7 +8,7 @@ function Navbar() {
   const location = useLocation();
   const isHomePage = location.pathname === "/";
   const navColor = isHomePage ? "text-white" : "text-black";
-  const logoSrc = isHomePage ? "./public/images/jaftalogo.png" : "./public/images/jaftalogo2.png";
+  const logoSrc = isHomePage ? "./images/jaftalogo.png" : "./images/jaftalogo2.png";
 
   return (
     <nav className="absolute inset-x-0 top-0 z-50 flex w-full items-center justify-between px-4 mb-50 sm:px-8 lg:px-12">

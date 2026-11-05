@@ -14,7 +14,7 @@ const Footer = () => {
             PVO Registration No: 201/26
           </p>
           <img
-            src="./public/images/Jafuta-candid-logo.png"
+            src="./images/Jafuta-candid-logo.png"
             alt="Silver Transparency 2026 - Candid"
             className="w-[202px] h-[183px] object-fill mt-[50px]"
           />

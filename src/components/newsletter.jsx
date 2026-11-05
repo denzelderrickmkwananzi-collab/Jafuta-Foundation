@@ -12,7 +12,7 @@ export default function NewsletterSection() {
   return (
     <section 
       className="relative w-full min-h-[400px] flex items-center justify-center bg-cover bg-center px-4 py-16"
-      style={{ backgroundImage: `url('public/images/Girls_sports_africa.png')` }}>
+      style={{ backgroundImage: `url('./images/Girls_sports_africa.png')` }}>
       <div className="absolute inset-0 bg-black/45 backdrop-blur-[1px]" />
       <div className="relative z-10 max-w-2xl w-full text-center text-white flex flex-col items-center">
     
